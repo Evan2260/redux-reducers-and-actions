@@ -1,0 +1,5 @@
+---
+title: "Redux Reducers and Actions"
+type: "article"
+description: "Discuss how reducers and actions are used to update Redux state"
+tags: "javascript, redux"
